@@ -1,0 +1,10 @@
+{
+  "name": "zumi-adaptive-engine",
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}
